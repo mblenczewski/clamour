@@ -1,0 +1,3 @@
+[submodule "libmbs"]
+	path = libmbs
+	url = https://github.com/mblenczewski/libmbs.git
